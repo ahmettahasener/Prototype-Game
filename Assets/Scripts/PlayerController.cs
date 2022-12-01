@@ -9,11 +9,11 @@ public class PlayerController : MonoBehaviour
     public float turnSpeed;
     private float horizontalInput;
     private float verticalInput;
-    
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        //gameManager.isGameActive = true;
     }
 
     // Update is called once per frame
