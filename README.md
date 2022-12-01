@@ -1,5 +1,5 @@
 # Prototype-Game
-Demo game we made in Unity Learn training. I will add some images related to the game below. While the visuals originate from a ready-made asset, we wrote the game mechanics and codes in the tutorial. This was the first project I created with Unity.
+Demo game we made in Unity Learn training. I will add some images related to the game below. While the visuals originate from a ready-made asset, i wrote the game mechanics and codes. This was the first project I created with Unity.
 ![Ekran Görüntüsü (721)](https://user-images.githubusercontent.com/110438048/205152234-613f55f0-2877-4398-aaa5-cdf572501109.png)
 ![Ekran Görüntüsü (695)](https://user-images.githubusercontent.com/110438048/201215885-dd6a4087-4439-4a93-9af5-3aecabe4ca88.png)
 ![Ekran Görüntüsü (696)](https://user-images.githubusercontent.com/110438048/201215912-ec63b292-84b0-46ae-a5ba-a067c28a7823.png)
